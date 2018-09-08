@@ -21,6 +21,13 @@ Usage
     >>> getattr(restored_obj, "my_attr")
     'test'
 
+Installation
+============
+
+Python-todict is not yet available on Pypi. For the moment, you need to clone the repo and install it with pip.
+
+    $ pip install .
+
 Launch tests
 ============
 
