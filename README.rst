@@ -24,9 +24,9 @@ Usage
 Installation
 ============
 
-Python-todict is not yet available on Pypi. For the moment, you need to clone the repo and install it with pip.
+Python-todict can be installed with pip:
 
-    $ pip install .
+    $ pip install todict
 
 Launch tests
 ============
